@@ -1,0 +1,49 @@
+string_config:
+  name: string_config
+  value: MyString
+  value_type: string
+
+boolean_false_config:
+  name: boolean_false_config
+  value: false
+  value_type: boolean
+
+boolean_true_config:
+  name: boolean_true_config
+  value: true
+  value_type: boolean
+
+float_config:
+  name: float_config
+  value: 3.5
+  value_type: float
+
+integer_config:
+  name: integer_config
+  value: 3
+  value_type: integer
+
+string_config_to_set:
+  name: string_config_to_set
+  value: MyString
+  value_type: string
+
+boolean_true_config_to_set:
+  name: boolean_true_config_to_set
+  value: true
+  value_type: boolean
+
+float_config_to_set:
+  name: float_config_to_set
+  value: 3.5
+  value_type: float  
+
+integer_config_to_set:
+  name: integer_config_to_set
+  value: 3
+  value_type: integer
+
+cache_test:
+  name: cache_test
+  value: initial
+  value_type: string

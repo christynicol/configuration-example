@@ -79,4 +79,3 @@ But adding a to_b method is a common monkey-patch for String and it doesn’t mo
 the behavior of any existing String methods. Having a to_b method allowed me to
 simply pass symbols to the method that created the getter methods in order to make
 sure they returned the proper data types.
-
